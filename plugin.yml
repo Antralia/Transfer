@@ -1,0 +1,10 @@
+name: Transfer
+main: antralia\transfer\TransferPlugin
+
+api: 4.0.0
+version: 1.0.0
+
+description: Transferring players to Antralia Network
+
+author: Antralia (Lunarelly)
+website: https://github.com/Antralia
