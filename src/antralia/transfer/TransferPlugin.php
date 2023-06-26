@@ -1,7 +1,5 @@
 <?php
 
-declare(strict_types=1);
-
 /**
  *     _          _             _ _
  *    / \   _ __ | |_ _ __ __ _| (_) __ _
@@ -14,6 +12,8 @@ declare(strict_types=1);
  *
  */
 
+declare(strict_types=1);
+
 namespace antralia\transfer;
 
 use pocketmine\event\EventPriority;
@@ -25,10 +25,6 @@ use ReflectionException;
 
 final class TransferPlugin extends PluginBase
 {
-
-    /**
-     * @return void
-     */
     protected function onEnable(): void
     {
         try {
