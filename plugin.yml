@@ -1,7 +1,7 @@
 name: Transfer
 main: antralia\transfer\TransferPlugin
 
-api: 4.0.0
+api: 5.0.0
 version: 1.0.0
 
 description: Transferring players to Antralia Network
